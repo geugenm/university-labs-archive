@@ -1,0 +1,3 @@
+S:/Programming/Labs/programming/BSUIR/Diploma/Autotimetable/cmake-build-debug/CMakeFiles/Autotimetable.dir
+S:/Programming/Labs/programming/BSUIR/Diploma/Autotimetable/cmake-build-debug/CMakeFiles/edit_cache.dir
+S:/Programming/Labs/programming/BSUIR/Diploma/Autotimetable/cmake-build-debug/CMakeFiles/rebuild_cache.dir

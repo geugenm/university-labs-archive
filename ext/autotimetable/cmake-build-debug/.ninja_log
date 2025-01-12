@@ -1,0 +1,18 @@
+# ninja log v5
+0	18	6934365397752333	build.ninja	2436227bb0a4f3de
+596	676	1671483875031460785	Autotimetable	99beeb7ee0975d3a
+1	1118	6933657203839504	CMakeFiles/Autotimetable.dir/autotimetable.cpp.obj	cf202ea8f50feaf6
+2140	2688	6934334133199609	Autotimetable.exe	5806e81021bcef67
+0	2140	6934334127922906	CMakeFiles/Autotimetable.dir/main.cpp.obj	ba6da7294458025d
+0	116	6934365397752333	build.ninja	f40aad5ac73e6730
+0	2372	6934365421933512	CMakeFiles/Autotimetable.dir/main.cpp.obj	ba6da7294458025d
+2372	2795	6934365425808604	Autotimetable.exe	5806e81021bcef67
+0	2078	6934368066401579	CMakeFiles/Autotimetable.dir/main.cpp.obj	ba6da7294458025d
+2078	2457	6934368069855092	Autotimetable.exe	5806e81021bcef67
+0	1717	6934373101983934	CMakeFiles/Autotimetable.dir/main.cpp.obj	ba6da7294458025d
+1718	2019	6934373104696184	Autotimetable.exe	5806e81021bcef67
+4	984	6934414933124740	CMakeFiles/Autotimetable.dir/autotimetable.cpp.obj	cf202ea8f50feaf6
+0	1843	6934415297402590	CMakeFiles/Autotimetable.dir/main.cpp.obj	ba6da7294458025d
+1844	2319	6934415301778322	Autotimetable.exe	5806e81021bcef67
+0	1962	6934415761848360	CMakeFiles/Autotimetable.dir/main.cpp.obj	ba6da7294458025d
+1963	2388	6934415765757301	Autotimetable.exe	5806e81021bcef67
