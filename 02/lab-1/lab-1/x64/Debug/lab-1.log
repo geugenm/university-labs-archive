@@ -1,0 +1,7 @@
+﻿  main.cpp
+  task-1.1.cpp
+S:\labs\programming\second-term\lab-1\lab-1\sources\task-1.1.cpp(52,51): warning C4018: '>': signed/unsigned mismatch
+  task-1.2.cpp
+S:\labs\programming\second-term\lab-1\lab-1\sources\task-1.2.cpp(49,51): warning C4018: '>': signed/unsigned mismatch
+  Generating Code...
+  lab-1.vcxproj -> S:\labs\programming\second-term\lab-1\x64\Debug\lab-1.exe

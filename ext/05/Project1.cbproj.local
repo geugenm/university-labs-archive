@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/12/17 15:28:50.000.020,=C:\Users\gleba\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/12/17 15:28:50.000.059,=C:\Users\gleba\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021/12/17 15:29:09.000.553,C:\Users\gleba\Documents\Embarcadero\Studio\Projects\Unit1.dfm=S:\Labaratory Operations\Programming\BSUIR\LAB V\Unit1.dfm</Transaction>
+    <Transaction>2021/12/17 15:29:09.000.553,C:\Users\gleba\Documents\Embarcadero\Studio\Projects\Unit1.cpp=S:\Labaratory Operations\Programming\BSUIR\LAB V\Unit1.cpp</Transaction>
+    <Transaction>2021/12/17 15:29:09.000.553,C:\Users\gleba\Documents\Embarcadero\Studio\Projects\Unit1.h=S:\Labaratory Operations\Programming\BSUIR\LAB V\Unit1.h</Transaction>
+    <Transaction>2021/12/17 15:29:12.000.702,C:\Users\gleba\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=S:\Labaratory Operations\Programming\BSUIR\LAB V\Project1PCH1.h</Transaction>
+    <Transaction>2021/12/17 15:29:15.000.022,C:\Users\gleba\Documents\Embarcadero\Studio\Projects\Project1.cbproj=S:\Labaratory Operations\Programming\BSUIR\LAB V\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
