@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\classes">
+      <UniqueIdentifier>{75c23984-bc8c-4fc6-8575-d5baba2b069d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\classes\task-2.1">
+      <UniqueIdentifier>{ebbaa719-305b-4995-bfd0-71ece456a90a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Logger">
+      <UniqueIdentifier>{077613c6-ad23-4bb9-8b7a-850192050b03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\main">
+      <UniqueIdentifier>{be092190-4c2d-4205-9a83-cf14eef8c705}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\classes\task-2.4">
+      <UniqueIdentifier>{f839fec6-ce33-4ae9-9f1a-6a9989ce34fc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="headers\config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="headers\references.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sources\classes\def_customVector.h">
+      <Filter>Source Files\classes\task-2.1</Filter>
+    </ClInclude>
+    <ClInclude Include="sources\classes\dec_customVector.h">
+      <Filter>Source Files\classes\task-2.1</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\easylogging++.h">
+      <Filter>Logger</Filter>
+    </ClInclude>
+    <ClInclude Include="sources\classes\dec_customString.h">
+      <Filter>Source Files\classes\task-2.4</Filter>
+    </ClInclude>
+    <ClInclude Include="sources\classes\def_customString.h">
+      <Filter>Source Files\classes\task-2.4</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="sources\task-2.1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sources\task-2.2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sources\task-2.3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sources\task-2.4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sources\task-2.5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sources\task-2.6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sources\task-2.7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sources\classes\def_customVector.cpp">
+      <Filter>Source Files\classes\task-2.1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\easylogging++.cc">
+      <Filter>Logger</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files\main</Filter>
+    </ClCompile>
+    <ClCompile Include="sources\classes\def_customString.cpp">
+      <Filter>Source Files\classes\task-2.4</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

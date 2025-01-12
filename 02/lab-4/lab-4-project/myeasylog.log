@@ -1,0 +1,606 @@
+2022-05-03 14:28:15,774 INFO [default] g
+2022-05-03 14:29:24,852 INFO [default] Program successfully ended
+2022-05-03 14:33:10,418 INFO [default] Program successfully ended
+2022-05-03 14:50:36,128 INFO [default] Program successfully ended
+2022-05-03 16:27:56,103 INFO [default] Program successfully ended
+2022-05-03 16:34:47,646 INFO [default] Program successfully ended
+2022-05-03 16:39:00,536 INFO [default] Program successfully ended
+2022-05-03 17:56:23,401 INFO [default] Program successfully ended
+2022-05-03 18:04:42,988 INFO [default] Program successfully ended
+2022-05-03 18:05:36,659 INFO [default] Program successfully ended
+2022-05-03 18:20:55,732 INFO [default] Program successfully ended
+2022-05-03 18:21:34,166 INFO [default] Program successfully ended
+2022-05-03 18:23:09,542 INFO [default] Program successfully ended
+2022-05-03 18:23:24,118 INFO [default] Program successfully ended
+2022-05-03 18:23:43,201 INFO [default] Program successfully ended
+2022-05-03 18:24:41,600 INFO [default] Program successfully ended
+2022-05-03 18:24:49,569 INFO [default] Program successfully ended
+2022-05-03 18:24:59,296 INFO [default] Program successfully ended
+2022-05-03 18:25:15,708 INFO [default] Program successfully ended
+2022-05-03 18:32:36,875 INFO [default] Program successfully ended
+2022-05-03 18:33:35,146 INFO [default] Program successfully ended
+2022-05-03 18:35:30,709 INFO [default] Program successfully ended
+2022-05-03 21:00:40,118 INFO [default] Program successfully ended
+2022-05-05 22:03:19,528 INFO [default] Program successfully ended
+2022-05-05 22:33:17,422 INFO [default] Program successfully ended
+2022-05-05 22:35:39,917 INFO [default] Program successfully ended
+2022-05-05 23:15:55,577 INFO [default] Program successfully ended
+2022-05-05 23:17:59,898 INFO [default] Program successfully ended
+2022-05-07 22:54:51,531 INFO [default] Program successfully ended
+2022-05-08 00:37:01,086 INFO [default] Program successfully ended
+2022-05-08 01:04:16,347 INFO [default] Program successfully ended
+2022-05-09 10:57:19,980 INFO [default] Program successfully ended
+2022-05-09 11:00:32,125 INFO [default] Program successfully ended
+2022-05-09 12:11:12,183 INFO [default] File is not found
+2022-05-09 12:11:12,184 INFO [default] Program successfully ended
+2022-05-09 12:12:14,292 INFO [default] File is not found
+2022-05-09 12:12:14,293 INFO [default] Program successfully ended
+2022-05-09 12:12:47,444 INFO [default] File is not found
+2022-05-09 12:12:47,445 INFO [default] Program successfully ended
+2022-05-09 12:12:56,396 INFO [default] File is not found
+2022-05-09 12:12:56,397 INFO [default] Program successfully ended
+2022-05-09 12:13:15,748 INFO [default] File is not found
+2022-05-09 12:13:15,749 INFO [default] Program successfully ended
+2022-05-09 12:13:35,337 INFO [default] File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-09 12:13:35,338 INFO [default] Program successfully ended
+2022-05-09 12:13:55,480 INFO [default] File is found
+2022-05-09 12:13:55,481 INFO [default] Program successfully ended
+2022-05-09 12:14:35,355 INFO [default] File is found
+2022-05-09 12:14:35,357 INFO [default] Program successfully ended
+2022-05-09 12:25:33,917 INFO [default] File is found
+2022-05-09 12:25:33,919 INFO [default] Program successfully ended
+2022-05-09 12:26:31,408 INFO [default] File is found
+2022-05-09 12:26:31,409 INFO [default] Program successfully ended
+2022-05-09 12:28:15,653 INFO [default] File is found
+2022-05-09 12:28:15,654 INFO [default] Program successfully ended
+2022-05-09 12:28:27,644 INFO [default] File is found
+2022-05-09 12:28:27,645 INFO [default] Program successfully ended
+2022-05-09 12:28:33,882 INFO [default] File is found
+2022-05-09 12:28:33,883 INFO [default] Program successfully ended
+2022-05-09 12:29:19,529 INFO [default] File is found
+2022-05-09 12:29:19,530 INFO [default] Program successfully ended
+2022-05-09 12:29:47,260 INFO [default] File is found
+2022-05-09 12:29:47,261 INFO [default] Program successfully ended
+2022-05-09 12:31:17,944 INFO [default] File is found
+2022-05-09 12:31:17,945 INFO [default] Program successfully ended
+2022-05-09 12:31:32,556 INFO [default] File is found
+2022-05-09 12:31:32,558 INFO [default] Program successfully ended
+2022-05-09 12:32:39,043 INFO [default] File is found
+2022-05-09 12:32:39,044 INFO [default] Program successfully ended
+2022-05-09 12:35:11,786 INFO [default] File is found
+2022-05-09 12:35:11,788 INFO [default] Program successfully ended
+2022-05-09 12:36:51,907 INFO [default] File is found
+2022-05-09 12:36:51,909 INFO [default] Program successfully ended
+2022-05-09 12:37:33,815 INFO [default] File is found
+2022-05-09 12:37:33,816 INFO [default] Program successfully ended
+2022-05-09 12:37:56,814 INFO [default] File is found
+2022-05-09 12:37:56,816 INFO [default] Program successfully ended
+2022-05-09 12:41:19,079 INFO [default] File is found
+2022-05-09 12:41:19,080 INFO [default] Program successfully ended
+2022-05-09 12:41:39,630 INFO [default] File is found
+2022-05-09 12:41:39,632 INFO [default] Program successfully ended
+2022-05-09 12:41:54,124 INFO [default] File is found
+2022-05-09 12:41:54,126 INFO [default] Program successfully ended
+2022-05-09 12:42:01,055 INFO [default] File is found
+2022-05-09 12:42:01,057 INFO [default] Program successfully ended
+2022-05-09 12:55:43,263 INFO [default] File is found
+2022-05-09 12:55:43,267 INFO [default] Program successfully ended
+2022-05-09 12:56:19,772 INFO [default] File is found
+2022-05-09 12:56:19,774 INFO [default] Program successfully ended
+2022-05-09 12:57:33,838 INFO [default] File is found
+2022-05-09 12:57:33,840 INFO [default] Program successfully ended
+2022-05-09 14:39:33,067 INFO [default] Program successfully ended
+2022-05-09 14:39:47,753 INFO [default] Program successfully ended
+2022-05-09 14:45:29,803 INFO [default] Program successfully ended
+2022-05-09 14:46:12,884 INFO [default] File is found
+2022-05-09 14:46:12,886 INFO [default] Program successfully ended
+2022-05-09 14:46:33,594 INFO [default] File is found
+2022-05-09 14:46:33,596 INFO [default] Program successfully ended
+2022-05-09 14:46:45,959 INFO [default] File is found
+2022-05-09 14:47:58,318 INFO [default] File is found
+2022-05-09 14:47:58,320 INFO [default] Program successfully ended
+2022-05-09 14:55:14,117 INFO [default] File is found
+2022-05-09 14:55:14,119 INFO [default] Program successfully ended
+2022-05-09 14:57:45,801 INFO [default] File is found
+2022-05-09 14:57:45,803 INFO [default] Program successfully ended
+2022-05-09 14:58:11,109 INFO [default] File is found
+2022-05-09 14:58:11,111 INFO [default] Program successfully ended
+2022-05-09 15:00:03,427 INFO [default] File is found
+2022-05-09 15:00:03,429 INFO [default] Program successfully ended
+2022-05-09 15:03:23,664 INFO [default] File is found
+2022-05-09 15:03:23,666 INFO [default] Program successfully ended
+2022-05-09 15:04:00,552 INFO [default] File is found
+2022-05-09 15:04:00,553 INFO [default] Program successfully ended
+2022-05-09 15:04:52,005 INFO [default] File is found
+2022-05-09 15:04:52,007 INFO [default] Program successfully ended
+2022-05-09 15:07:02,064 INFO [default] File is found
+2022-05-09 15:07:02,066 INFO [default] Program successfully ended
+2022-05-09 15:07:34,225 INFO [default] File is found
+2022-05-09 15:07:34,227 INFO [default] Program successfully ended
+2022-05-09 15:10:02,077 INFO [default] File is found
+2022-05-09 15:10:02,079 INFO [default] Program successfully ended
+2022-05-09 15:10:18,838 INFO [default] File is found
+2022-05-09 15:10:18,840 INFO [default] Program successfully ended
+2022-05-09 15:12:21,047 INFO [default] File is found
+2022-05-09 15:12:21,049 INFO [default] Program successfully ended
+2022-05-09 15:13:03,484 INFO [default] File is found
+2022-05-09 15:13:12,304 INFO [default] File is found
+2022-05-09 15:24:02,147 INFO [default] File is found
+2022-05-09 15:24:54,052 INFO [default] File is found
+2022-05-09 15:25:26,617 INFO [default] File is found
+2022-05-09 15:25:50,955 INFO [default] File is found
+2022-05-09 15:26:28,191 INFO [default] File is found
+2022-05-09 15:27:16,493 INFO [default] File is found
+2022-05-09 15:27:56,439 INFO [default] File is found
+2022-05-09 15:28:37,304 INFO [default] File is found
+2022-05-09 15:30:11,958 INFO [default] File is found
+2022-05-09 15:30:47,379 INFO [default] File is found
+2022-05-09 15:39:29,443 INFO [default] File is found
+2022-05-09 15:39:52,062 INFO [default] File is found
+2022-05-09 15:40:21,305 INFO [default] File is found
+2022-05-09 15:43:14,107 INFO [default] File is found
+2022-05-09 15:45:42,878 INFO [default] File is found
+2022-05-09 15:48:38,886 INFO [default] File is found
+2022-05-09 15:49:19,655 INFO [default] File is found
+2022-05-09 15:49:44,018 INFO [default] File is found
+2022-05-09 15:50:16,916 INFO [default] File is found
+2022-05-09 15:50:16,917 INFO [default] JSON parse error: Ghosti is not found
+2022-05-09 15:50:23,098 INFO [default] File is found
+2022-05-09 15:50:23,100 INFO [default] JSON parse error: Ghosti is not found
+2022-05-09 15:50:28,175 INFO [default] File is found
+2022-05-09 15:50:28,177 INFO [default] JSON parse error: Ghosti is not found
+2022-05-09 15:50:31,625 INFO [default] File is found
+2022-05-09 15:50:31,626 INFO [default] JSON parse error: Ghosti is not found
+2022-05-09 15:51:10,891 INFO [default] File is found
+2022-05-09 15:51:10,893 INFO [default] JSON parse error: Ghosti is not found
+2022-05-09 15:51:50,278 INFO [default] File is found
+2022-05-09 15:51:50,280 INFO [default] Program successfully ended
+2022-05-09 15:51:56,406 INFO [default] File is found
+2022-05-09 15:51:56,408 INFO [default] Program successfully ended
+2022-05-09 15:54:12,357 INFO [default] File is found
+2022-05-09 15:54:12,359 INFO [default] Program successfully ended
+2022-05-09 16:36:41,466 INFO [default] Program successfully ended
+2022-05-09 16:37:10,888 INFO [default] Program successfully ended
+2022-05-09 16:37:38,932 INFO [default] Program successfully ended
+2022-05-09 16:37:51,963 INFO [default] Program successfully ended
+2022-05-09 16:40:58,432 INFO [default] Program successfully ended
+2022-05-09 16:41:50,560 INFO [default] Program successfully ended
+2022-05-09 16:42:04,715 INFO [default] Program successfully ended
+2022-05-09 16:50:07,337 INFO [default] Program successfully ended
+2022-05-09 16:50:22,750 INFO [default] Program successfully ended
+2022-05-09 16:52:59,611 INFO [default] Program successfully ended
+2022-05-09 16:58:52,254 INFO [default] Program successfully ended
+2022-05-09 16:59:28,384 INFO [default] Program successfully ended
+2022-05-09 18:17:21,465 INFO [default] Program successfully ended
+2022-05-09 18:17:45,859 INFO [default] Program successfully ended
+2022-05-09 18:18:12,653 INFO [default] Program successfully ended
+2022-05-09 18:18:37,047 INFO [default] Program successfully ended
+2022-05-09 18:19:17,756 INFO [default] File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-09 18:19:17,757 INFO [default] File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-09 18:19:17,757 INFO [default] File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-09 18:19:17,757 INFO [default] File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-09 18:19:17,757 INFO [default] Program successfully ended
+2022-05-09 18:19:45,241 INFO [default] File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-09 18:19:45,241 INFO [default] File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-09 18:19:45,241 INFO [default] File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-09 18:19:45,242 INFO [default] File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-09 18:19:45,242 INFO [default] Program successfully ended
+2022-05-09 18:19:58,901 INFO [default] File is found
+2022-05-09 18:19:58,902 INFO [default] File is found
+2022-05-09 18:19:58,903 INFO [default] File is found
+2022-05-09 18:19:58,904 INFO [default] File is found
+2022-05-09 18:19:58,904 INFO [default] Program successfully ended
+2022-05-09 18:20:59,649 INFO [default] File is found
+2022-05-09 18:20:59,651 INFO [default] File is found
+2022-05-09 18:20:59,651 INFO [default] File is found
+2022-05-09 18:20:59,652 INFO [default] File is found
+2022-05-09 18:20:59,653 INFO [default] Program successfully ended
+2022-05-09 18:33:57,518 INFO [default] File is found
+2022-05-09 18:33:57,520 INFO [default] File is found
+2022-05-09 18:33:57,520 INFO [default] File is found
+2022-05-09 18:33:57,521 INFO [default] File is found
+2022-05-09 18:35:22,143 INFO [default] File is found
+2022-05-09 18:35:22,145 INFO [default] File is found
+2022-05-09 18:35:22,146 INFO [default] File is found
+2022-05-09 18:35:22,147 INFO [default] File is found
+2022-05-09 18:36:14,132 INFO [default] File is found
+2022-05-09 18:36:14,134 INFO [default] File is found
+2022-05-09 18:36:14,135 INFO [default] File is found
+2022-05-09 18:36:14,136 INFO [default] File is found
+2022-05-09 18:36:14,136 INFO [default] File is found
+2022-05-09 18:36:14,137 INFO [default] Program successfully ended
+2022-05-09 18:55:02,923 INFO [default] File is found
+2022-05-09 18:55:02,925 INFO [default] File is found
+2022-05-09 18:55:02,925 INFO [default] File is found
+2022-05-09 18:55:02,926 INFO [default] File is found
+2022-05-09 18:55:02,927 INFO [default] Program successfully ended
+2022-05-09 18:55:22,207 INFO [default] File is found
+2022-05-09 18:55:22,209 INFO [default] File is found
+2022-05-09 18:55:22,209 INFO [default] File is found
+2022-05-09 18:55:22,210 INFO [default] File is found
+2022-05-09 18:55:22,211 INFO [default] Program successfully ended
+2022-05-09 18:58:34,632 INFO [default] File is found
+2022-05-09 18:58:34,634 INFO [default] File is found
+2022-05-09 18:58:34,634 INFO [default] File is found
+2022-05-09 18:58:34,635 INFO [default] File is found
+2022-05-09 18:58:34,636 INFO [default] Program successfully ended
+2022-05-09 18:58:54,504 INFO [default] File is found
+2022-05-09 18:58:54,506 INFO [default] File is found
+2022-05-09 18:58:54,507 INFO [default] File is found
+2022-05-09 18:58:54,507 INFO [default] File is found
+2022-05-09 18:58:54,508 INFO [default] Program successfully ended
+2022-05-09 18:59:45,296 INFO [default] File is found
+2022-05-09 18:59:45,297 INFO [default] File is found
+2022-05-09 18:59:45,298 INFO [default] File is found
+2022-05-09 18:59:45,298 INFO [default] File is found
+2022-05-09 18:59:45,299 INFO [default] Program successfully ended
+2022-05-09 19:00:10,350 INFO [default] File is found
+2022-05-09 19:00:10,352 INFO [default] File is found
+2022-05-09 19:00:10,353 INFO [default] File is found
+2022-05-09 19:00:10,353 INFO [default] File is found
+2022-05-12 22:16:06,945 INFO [default] Program successfully ended
+2022-05-12 22:18:03,637 INFO [default] Program successfully ended
+2022-05-12 22:19:12,147 INFO [default] Program successfully ended
+2022-05-12 22:19:23,220 INFO [default] Program successfully ended
+2022-05-12 22:20:06,582 INFO [default] Program successfully ended
+2022-05-12 22:21:10,693 INFO [default] Program successfully ended
+2022-05-12 22:23:30,416 INFO [default] Program successfully ended
+2022-05-12 22:23:50,862 INFO [default] Program successfully ended
+2022-05-12 22:24:33,848 INFO [default] Program successfully ended
+2022-05-12 22:25:28,931 INFO [default] Program successfully ended
+2022-05-12 22:27:32,896 INFO [default] Program successfully ended
+2022-05-12 22:27:47,045 INFO [default] Program successfully ended
+2022-05-12 22:28:51,399 INFO [default] Program successfully ended
+2022-05-12 22:29:15,336 INFO [default] Program successfully ended
+2022-05-12 22:29:42,655 INFO [default] Program successfully ended
+2022-05-12 23:08:36,216 INFO [default] File is found
+2022-05-12 23:08:36,219 INFO [default] Program successfully ended
+2022-05-12 23:09:16,599 INFO [default] File is found
+2022-05-12 23:09:16,600 INFO [default] Program successfully ended
+2022-05-12 23:24:45,567 INFO [default] File is found
+2022-05-12 23:24:45,569 INFO [default] Program successfully ended
+2022-05-12 23:53:16,129 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,130 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,130 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,131 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,131 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,131 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,131 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,131 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,131 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,131 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,132 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,132 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,132 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,132 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,133 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,133 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,133 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,133 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,133 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,134 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,134 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,134 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,134 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,135 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,135 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,135 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,135 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,135 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,136 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,136 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,136 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,136 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,136 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,136 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,137 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,137 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,137 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,137 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,137 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,137 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,138 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,138 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,138 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,138 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,138 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,139 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,139 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,139 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,139 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,139 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,139 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,140 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,140 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,140 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,140 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,140 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,140 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,141 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,141 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,141 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,141 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,142 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,142 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,142 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,142 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,142 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,142 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,143 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,143 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,143 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,143 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,143 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,143 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,144 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,144 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,144 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,144 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,144 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,144 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,144 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,145 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,145 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,145 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,145 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,145 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,145 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,146 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,146 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,146 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,146 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,146 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,147 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,147 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,147 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,147 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,147 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,147 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,148 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,148 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,148 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,148 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,148 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,148 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,149 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,149 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,149 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,149 INFO [default] ParseObjectFrom(): File is not found, current path: S:\labs\programming\second-term\lab-4\lab-4-project
+2022-05-12 23:53:16,149 INFO [default] Program successfully ended
+2022-05-12 23:53:44,615 INFO [default] ParseObjectFrom(): File is found
+2022-05-12 23:53:44,617 INFO [default] ParseObjectFrom(): File is found
+2022-05-12 23:53:44,618 INFO [default] ParseObjectFrom(): File is found
+2022-05-12 23:56:33,716 INFO [default] ParseObjectFrom(): File is found
+2022-05-12 23:56:33,718 INFO [default] ParseObjectFrom(): File is found
+2022-05-12 23:56:33,718 INFO [default] ParseObjectFrom(): File is found
+2022-05-12 23:56:33,719 INFO [default] ParseObjectFrom(): File is found
+2022-05-12 23:56:33,721 INFO [default] Program successfully ended
+2022-05-12 23:59:55,937 INFO [default] ParseFile(): File is opened
+2022-05-12 23:59:55,938 INFO [default] ParseObjectFrom(): File is found
+2022-05-12 23:59:55,939 INFO [default] ParseObjectFrom(): File is found
+2022-05-12 23:59:55,940 INFO [default] ParseObjectFrom(): File is found
+2022-05-12 23:59:55,940 INFO [default] ParseObjectFrom(): File is found
+2022-05-12 23:59:55,942 INFO [default] Program successfully ended
+2022-05-13 00:02:40,225 INFO [default] ParseFile(): File is opened
+2022-05-13 00:02:40,226 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:02:40,227 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:02:40,227 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:02:40,228 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:02:40,231 INFO [default] Program successfully ended
+2022-05-13 00:13:40,981 INFO [default] ParseFile(): File is opened
+2022-05-13 00:13:40,982 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:13:40,983 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:13:40,984 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:13:40,984 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:13:40,987 INFO [default] Program successfully ended
+2022-05-13 00:15:11,437 INFO [default] ParseFile(): File is opened
+2022-05-13 00:15:11,438 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:15:11,439 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:15:11,439 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:15:11,440 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:15:11,442 INFO [default] Program successfully ended
+2022-05-13 00:15:35,621 INFO [default] ParseFile(): File is opened
+2022-05-13 00:15:35,622 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:15:35,623 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:15:35,623 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:15:35,624 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:15:35,626 INFO [default] Program successfully ended
+2022-05-13 00:15:52,647 INFO [default] ParseFile(): File is opened
+2022-05-13 00:15:52,648 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:15:52,649 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:15:52,649 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:15:52,650 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:15:52,652 INFO [default] Program successfully ended
+2022-05-13 00:16:32,725 INFO [default] ParseFile(): File is opened
+2022-05-13 00:16:32,726 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:16:32,727 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:16:32,727 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:16:32,728 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:16:32,731 INFO [default] Program successfully ended
+2022-05-13 00:17:03,179 INFO [default] ParseFile(): File is opened
+2022-05-13 00:17:03,180 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:17:03,181 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:17:03,182 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:17:03,182 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:17:03,185 INFO [default] Program successfully ended
+2022-05-13 00:17:28,631 INFO [default] ParseFile(): File is opened
+2022-05-13 00:17:28,632 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:17:28,633 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:17:28,634 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:17:28,635 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:17:28,637 INFO [default] Program successfully ended
+2022-05-13 00:17:53,124 INFO [default] ParseFile(): File is opened
+2022-05-13 00:17:53,125 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:17:53,126 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:17:53,127 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:17:53,128 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:17:53,131 INFO [default] Program successfully ended
+2022-05-13 00:18:47,840 INFO [default] ParseFile(): File is opened
+2022-05-13 00:18:47,840 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:18:47,841 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:18:47,842 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:18:47,843 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:18:47,846 INFO [default] Program successfully ended
+2022-05-13 00:18:57,041 INFO [default] ParseFile(): File is opened
+2022-05-13 00:18:57,042 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:18:57,043 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:18:57,043 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:18:57,044 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:18:57,047 INFO [default] Program successfully ended
+2022-05-13 00:19:17,316 INFO [default] ParseFile(): File is opened
+2022-05-13 00:19:17,317 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:19:17,318 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:19:17,319 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:19:17,320 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:19:17,322 INFO [default] Program successfully ended
+2022-05-13 00:19:29,936 INFO [default] ParseFile(): File is opened
+2022-05-13 00:19:29,937 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:19:29,938 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:19:29,939 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:19:29,940 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:19:29,941 INFO [default] fddddddddddddddd
+2022-05-13 00:19:29,942 INFO [default] fddddddddddddddd
+2022-05-13 00:19:29,942 INFO [default] Program successfully ended
+2022-05-13 00:20:19,621 INFO [default] ParseFile(): File is opened
+2022-05-13 00:20:19,622 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:20:19,623 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:20:19,624 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:20:19,625 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:20:19,626 INFO [default] Program successfully ended
+2022-05-13 00:21:05,738 INFO [default] ParseFile(): File is opened
+2022-05-13 00:21:05,739 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:21:05,740 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:21:05,740 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:21:05,741 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:21:05,743 INFO [default] Program successfully ended
+2022-05-13 00:26:26,140 INFO [default] ParseFile(): File is opened
+2022-05-13 00:26:26,141 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:26:26,142 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:26:26,143 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:26:26,144 INFO [default] ParseObjectFrom(): File is found
+2022-05-13 00:26:26,145 INFO [default] Program successfully ended
+2022-05-14 17:37:23,547 INFO [default] ParseFile(): File is opened
+2022-05-14 17:37:23,549 INFO [default] ParseObjectFrom(): File is found
+2022-05-14 17:37:23,550 INFO [default] ParseObjectFrom(): File is found
+2022-05-14 17:37:23,551 INFO [default] ParseObjectFrom(): File is found
+2022-05-14 17:37:23,552 INFO [default] ParseObjectFrom(): File is found
+2022-05-14 17:37:23,554 INFO [default] Program successfully ended
+2022-05-14 18:35:55,993 INFO [default] ParseFile(): File is opened
+2022-05-14 18:35:55,994 INFO [default] ParseObjectFrom(): File is found
+2022-05-14 18:35:55,995 INFO [default] ParseObjectFrom(): File is found
+2022-05-14 18:35:55,996 INFO [default] ParseObjectFrom(): File is found
+2022-05-14 18:35:55,996 INFO [default] ParseObjectFrom(): File is found
+2022-05-14 18:35:55,998 INFO [default] Program successfully ended
+2022-05-14 18:38:55,590 INFO [default] ParseFile(): File is opened
+2022-05-14 18:38:55,591 INFO [default] ParseObjectFrom(): File is found
+2022-05-14 18:38:55,592 INFO [default] ParseObjectFrom(): File is found
+2022-05-14 18:38:55,593 INFO [default] ParseObjectFrom(): File is found
+2022-05-14 18:38:55,594 INFO [default] ParseObjectFrom(): File is found
+2022-05-14 18:38:55,595 INFO [default] Program successfully ended
+2022-05-14 19:09:41,367 INFO [default] Program successfully ended
+2022-05-14 19:10:50,786 INFO [default] Program successfully ended
+2022-05-14 19:46:10,450 INFO [default] Program successfully ended
+2022-05-14 19:46:59,255 INFO [default] Program successfully ended
+2022-05-14 19:47:39,481 INFO [default] Program successfully ended
+2022-05-14 20:02:50,013 INFO [default] Program successfully ended
+2022-05-14 20:03:37,624 INFO [default] Program successfully ended
+2022-05-14 20:03:41,538 INFO [default] Program successfully ended
+2022-05-14 20:03:50,123 INFO [default] Program successfully ended
+2022-05-14 20:06:52,417 INFO [default] Program successfully ended
+2022-05-14 21:59:14,153 INFO [default] Program successfully ended
+2022-05-14 22:04:54,008 INFO [default] Program successfully ended
+2022-05-14 22:11:13,292 INFO [default] Program successfully ended
+2022-05-14 22:11:26,095 INFO [default] Program successfully ended
+2022-05-14 22:18:31,160 INFO [default] Program successfully ended
+2022-05-14 22:37:21,407 INFO [default] Program successfully ended
+2022-05-14 22:37:37,487 INFO [default] Program successfully ended
+2022-05-14 22:38:37,054 INFO [default] Program successfully ended
+2022-05-14 22:38:41,267 INFO [default] Program successfully ended
+2022-05-14 22:51:17,209 INFO [default] Program successfully ended
+2022-05-14 22:51:22,418 INFO [default] Program successfully ended
+2022-05-14 22:51:27,959 INFO [default] Program successfully ended
+2022-05-14 22:51:43,705 INFO [default] Program successfully ended
+2022-05-14 22:52:13,687 INFO [default] Program successfully ended
+2022-05-14 22:52:56,763 INFO [default] Program successfully ended
+2022-05-14 22:55:03,949 INFO [default] Program successfully ended
+2022-05-14 22:57:24,796 INFO [default] Program successfully ended
+2022-05-14 22:57:47,169 INFO [default] Program successfully ended
+2022-05-14 23:00:03,452 INFO [default] Program successfully ended
+2022-05-14 23:00:13,242 INFO [default] Program successfully ended
+2022-05-14 23:01:32,442 INFO [default] Program successfully ended
+2022-05-14 23:01:42,365 INFO [default] Program successfully ended
+2022-05-14 23:02:02,460 INFO [default] Program successfully ended
+2022-05-14 23:02:33,380 INFO [default] Program successfully ended
+2022-05-14 23:02:43,486 INFO [default] Program successfully ended
+2022-05-14 23:03:00,031 INFO [default] Program successfully ended
+2022-05-14 23:10:24,835 INFO [default] Program successfully ended
+2022-05-14 23:11:00,030 INFO [default] Program successfully ended
+2022-05-14 23:15:26,481 INFO [default] Program successfully ended
+2022-05-14 23:15:33,587 INFO [default] Program successfully ended
+2022-05-14 23:16:36,460 INFO [default] Program successfully ended
+2022-05-14 23:17:08,139 INFO [default] Program successfully ended
+2022-05-14 23:17:14,456 INFO [default] Program successfully ended
+2022-05-14 23:17:39,188 INFO [default] Program successfully ended
+2022-05-14 23:18:18,086 INFO [default] Program successfully ended
+2022-05-14 23:19:50,843 INFO [default] Program successfully ended
+2022-05-14 23:29:21,011 INFO [default] Program successfully ended
+2022-05-14 23:29:58,141 INFO [default] Program successfully ended
+2022-05-14 23:31:04,487 INFO [default] Program successfully ended
+2022-05-14 23:37:46,823 INFO [default] Program successfully ended
+2022-05-14 23:37:59,342 INFO [default] Program successfully ended
+2022-05-14 23:38:09,216 INFO [default] Program successfully ended
+2022-05-14 23:38:16,439 INFO [default] Program successfully ended
+2022-05-14 23:39:01,089 INFO [default] Program successfully ended
+2022-05-14 23:39:10,805 INFO [default] Program successfully ended
+2022-05-14 23:39:21,033 INFO [default] Program successfully ended
+2022-05-14 23:39:24,255 INFO [default] Program successfully ended
+2022-05-14 23:40:07,630 INFO [default] Program successfully ended
+2022-05-14 23:40:14,518 INFO [default] Program successfully ended
+2022-05-16 22:29:52,779 INFO [default] Program successfully ended
+2022-05-16 23:43:50,887 INFO [default] Program successfully ended
+2022-05-16 23:45:57,041 INFO [default] Program successfully ended
+2022-05-16 23:46:01,697 INFO [default] Program successfully ended
+2022-05-16 23:46:14,368 INFO [default] Program successfully ended
+2022-05-16 23:46:17,172 INFO [default] Program successfully ended
+2022-05-17 00:01:48,798 INFO [default] Program successfully ended
+2022-05-17 00:01:53,752 INFO [default] Program successfully ended
+2022-05-17 00:03:10,098 INFO [default] Program successfully ended
+2022-05-17 00:36:39,626 INFO [default] Program successfully ended
+2022-05-17 00:37:01,315 INFO [default] Program successfully ended
+2022-05-17 19:08:45,238 INFO [default] Program successfully ended
+2022-05-17 19:09:14,707 INFO [default] Program successfully ended
+2022-05-17 19:09:22,412 INFO [default] Program successfully ended
+2022-05-17 19:11:23,322 INFO [default] Program successfully ended
+2022-05-17 19:11:34,486 INFO [default] Program successfully ended
+2022-05-17 19:12:28,345 INFO [default] Program successfully ended
+2022-05-17 19:14:01,410 INFO [default] Program successfully ended
+2022-05-17 19:14:07,649 INFO [default] Program successfully ended
+2022-05-17 19:14:19,079 INFO [default] Program successfully ended
+2022-05-17 19:14:55,191 INFO [default] Program successfully ended
+2022-05-17 19:15:06,563 INFO [default] Program successfully ended
+2022-05-17 19:15:58,428 INFO [default] Program successfully ended
+2022-05-17 19:16:17,413 INFO [default] Program successfully ended
+2022-05-17 19:16:21,714 INFO [default] Program successfully ended
+2022-05-17 19:16:51,792 INFO [default] Program successfully ended
+2022-05-17 19:17:27,400 INFO [default] Program successfully ended
+2022-05-17 19:17:46,613 INFO [default] Program successfully ended
+2022-05-17 19:22:12,788 INFO [default] Program successfully ended
+2022-05-17 19:22:36,909 INFO [default] Program successfully ended
+2022-05-17 19:26:47,916 INFO [default] Program successfully ended
+2022-05-17 19:26:51,615 INFO [default] Program successfully ended
+2022-05-17 19:31:27,457 INFO [default] Program successfully ended
+2022-05-17 19:31:42,097 INFO [default] Program successfully ended
+2022-05-17 19:37:55,803 INFO [default] Program successfully ended
+2022-05-17 19:38:40,373 INFO [default] Program successfully ended
+2022-05-29 02:20:15,391 INFO [default] Program successfully ended
+2022-06-15 13:37:51,165 INFO [default] Program successfully ended
+2022-06-15 13:41:45,990 INFO [default] Program successfully ended
+2022-06-15 13:42:23,704 INFO [default] Program successfully ended
+2022-06-18 17:34:43,592 INFO [default] Program successfully ended
+2022-06-18 17:34:48,522 INFO [default] Program successfully ended
+2022-06-18 17:35:45,692 INFO [default] Program successfully ended
+2022-06-18 17:44:31,525 INFO [default] Program successfully ended
+2022-06-18 20:27:16,909 INFO [default] Program successfully ended
+2022-06-18 20:28:11,218 INFO [default] Program successfully ended
+2022-06-18 20:39:53,112 INFO [default] Program successfully ended
+2022-06-18 20:39:57,267 INFO [default] Program successfully ended
