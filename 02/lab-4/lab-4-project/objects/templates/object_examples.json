@@ -1,0 +1,47 @@
+{ 
+	"Trace_object" : {
+		"type" : "GameObject",
+		"name" : "Trace Object",
+		"id" : 0,
+		"position" : {
+			"x" : 1,
+			"y" : 1
+		}
+	},
+
+	"Dummy" : {
+		"type" : "Entity",
+		"name" : "Dummy",
+		"id" : 1,
+		"position" : {
+			"x" : 7,
+			"y" : 1
+		},
+		"width" : 10,
+		"height" : 5
+	},
+
+	"Admin" : {
+		"type" : "Player",
+		"name" : "Admin",
+		"id" : 2,
+		"position" : {
+			"x" : 2,
+			"y" : 1
+		},
+		"nickname" : "Admin",
+		"skin_id" : 1
+	},
+
+	"Ghost" : {
+		"type" : "NPC",
+		"name" : "Ghost",
+		"game_name" : "Friedrich",
+		"id" : 3,
+		"position" : {
+			"x" : 4,
+			"y" : 1
+		}
+	}
+
+}

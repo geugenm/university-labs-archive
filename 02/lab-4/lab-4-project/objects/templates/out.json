@@ -1,0 +1,36 @@
+"Trace Object" :{
+    "id": 0,
+    "name": "Trace Object",
+    "position": {
+        "x": 1,
+        "y": 1
+    },
+    "type": "GameObject"
+}
+"Dummy" :{
+    "id": 1,
+    "name": "Dummy",
+    "position": {
+        "x": 7,
+        "y": 1
+    },
+    "type": "GameObject"
+}
+"Admin" :{
+    "id": 2,
+    "name": "Admin",
+    "position": {
+        "x": 2,
+        "y": 1
+    },
+    "type": "GameObject"
+}
+"Ghost" :{
+    "id": 3,
+    "name": "Ghost",
+    "position": {
+        "x": 4,
+        "y": 1
+    },
+    "type": "GameObject"
+}
