@@ -1,0 +1,55 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1} РЕШЕНИЕ СИСТЕМ ЛИНЕЙНЫХ АЛГЕБРАИЧЕСИХ УРАВНЕНИЙ }{4}{}%
+\contentsline {subsection}{\numberline {1.1}Метод Гаусса}{4}{}%
+\contentsline {subsubsection}{\numberline {1.1.1}Алгоритм}{5}{}%
+\contentsline {subsubsection}{\numberline {1.1.2}Реализация алгоритма на языке C\#}{5}{}%
+\contentsline {subsubsection}{\numberline {1.1.3}Применение и модификации}{7}{}%
+\contentsline {subsubsection}{\numberline {1.1.4}Достоинства метода}{7}{}%
+\contentsline {subsubsection}{\numberline {1.1.5}Устойчивость метода Гаусса}{7}{}%
+\contentsline {subsubsection}{\numberline {1.1.6}Неоптимальность метода Гаусса}{7}{}%
+\contentsline {subsection}{\numberline {1.2}Метод $\bar {L} D \bar {L}^{T}-$ факторизации}{7}{}%
+\contentsline {subsubsection}{\numberline {1.2.1}\(LDL^T\)-разложение}{8}{}%
+\contentsline {subsubsection}{\numberline {1.2.2}Реализация на языке Python}{8}{}%
+\contentsline {section}{\numberline {2}РЕШЕНИЕ СИСТЕМ НЕЛИНЕЙНЫХ АЛГЕБРАИЧЕСКИХ УРАВНЕНИЙ}{10}{}%
+\contentsline {subsection}{\numberline {2.1}Описание метода}{10}{}%
+\contentsline {subsubsection}{\numberline {2.1.1}Доказательство}{10}{}%
+\contentsline {subsubsection}{\numberline {2.1.2}Ограничения}{11}{}%
+\contentsline {subsection}{\numberline {2.2}Обобщения и модификации}{12}{}%
+\contentsline {subsubsection}{\numberline {2.2.1}Многомерный случай}{12}{}%
+\contentsline {subsubsection}{\numberline {2.2.2}Метод секущих}{12}{}%
+\contentsline {subsubsection}{\numberline {2.2.3}Метод Ньютона - Рафсона}{13}{}%
+\contentsline {subsection}{\numberline {2.3}Алгоритм}{13}{}%
+\contentsline {subsubsection}{\numberline {2.3.1}Реализация на языке Haskell}{13}{}%
+\contentsline {section}{\numberline {3}РЕШЕНИЕ СИСТЕМ ОБЫКНОВЕННЫХ ДИФФЕРЕНЦИАЛЬНЫХ УРАВНЕНИЙ}{14}{}%
+\contentsline {subsection}{\numberline {3.1}Описание метода}{14}{}%
+\contentsline {subsubsection}{\numberline {3.1.1}Оценка погрешности метода на шаге и в целом}{14}{}%
+\contentsline {subsection}{\numberline {3.2}Явный метод Эйлера}{15}{}%
+\contentsline {subsubsection}{\numberline {3.2.1}Реализация на языке Python}{15}{}%
+\contentsline {subsection}{\numberline {3.3}Неявный метод Эйлера}{16}{}%
+\contentsline {subsubsection}{\numberline {3.3.1}Реализация на языке Python}{16}{}%
+\contentsline {subsection}{\numberline {3.4}Модификации и обобщения}{17}{}%
+\contentsline {subsubsection}{\numberline {3.4.1}Модифицированный метод Эйлера с пересчетом}{17}{}%
+\contentsline {subsubsection}{\numberline {3.4.2}Двухшаговый метод Адамса~--- Башфорта}{17}{}%
+\contentsline {section}{\numberline {4}ПРИБЛИЖЕНИЕ ФУНКЦИИ МЕТОДОМ НАИМЕНЬШИХ КВАДРАТОВ}{18}{}%
+\contentsline {subsection}{\numberline {4.1}Суть метода наименьших квадратов}{18}{}%
+\contentsline {subsection}{\numberline {4.2}МНК в регрессионном анализе (аппроксимация данных)}{18}{}%
+\contentsline {subsubsection}{\numberline {4.2.1}МНК в случае линейной регрессии}{19}{}%
+\contentsline {subsubsection}{\numberline {4.2.2}Простейшие частные случаи}{20}{}%
+\contentsline {subsection}{\numberline {4.3}Реализация на языке Python}{21}{}%
+\contentsline {section}{\numberline {5}ВЫЧИСЛЕНИЕ ОПРЕДЕЛЁННЫХ ИНТЕГРАЛОВ}{23}{}%
+\contentsline {subsection}{\numberline {5.1}Метод трапеций}{23}{}%
+\contentsline {subsubsection}{\numberline {5.1.1}Применение составной формулы трапеций}{24}{}%
+\contentsline {subsubsection}{\numberline {5.1.2}Формула Котеса}{24}{}%
+\contentsline {subsubsection}{\numberline {5.1.3}Свойства}{24}{}%
+\contentsline {subsubsection}{\numberline {5.1.4}Реализация на языке Python}{25}{}%
+\contentsline {subsection}{\numberline {5.2}Метод Симпсона}{26}{}%
+\contentsline {subsubsection}{\numberline {5.2.1}Формула}{26}{}%
+\contentsline {subsubsection}{\numberline {5.2.2}Погрешность}{26}{}%
+\contentsline {subsubsection}{\numberline {5.2.3}Кубаторная формула Симпсона}{26}{}%
+\contentsline {subsubsection}{\numberline {5.2.4}Реализация на языке Python}{27}{}%
+\contentsline {subsection}{\numberline {5.3}Метод Монте-Карло}{28}{}%
+\contentsline {subsubsection}{\numberline {5.3.1}Алгоритм}{28}{}%
+\contentsline {subsubsection}{\numberline {5.3.2}Реализация на языке Python}{28}{}%
+\contentsline {subsection}{\numberline {5.4}Увеличение точности}{29}{}%
+\contentsline {subsection}{\numberline {5.5}Многомерный случай}{29}{}%
+\contentsline {section}{Список использованной литературы}{30}{}%

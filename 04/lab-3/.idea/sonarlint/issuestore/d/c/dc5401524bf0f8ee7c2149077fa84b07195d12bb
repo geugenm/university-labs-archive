@@ -1,0 +1,35 @@
+
+hpython:S1192."IDefine a constant instead of duplicating this literal 'Y values' 4 times.(åÓ ±8´„œÆ0
+hpython:S1192-"IDefine a constant instead of duplicating this literal 'X layout' 4 times.(ë£²˜8´„œÆ0
+}python:S117"`Rename this local variable "integrationStep" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÚôÏc8´„œÆ0
+xpython:S117"ZRename this local variable "stepLimit" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÚİË©8´„œÆ0
+ƒpython:S1542"_Rename function "DefineCalculationSettings" to match the regular expression ^[a-z_][a-z0-9_]*$.(·¿İŞùÿÿÿÿ8´„œÆ0
+‚python:S117"_Rename this parameter "EulerMethodFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(‚¶µ¶ùÿÿÿÿ8´„œÆ0
+}python:S117+"ZRename this local variable "firstPlot" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÒÉà‹ûÿÿÿÿ8´„œÆ0
+~python:S117*"[Rename this local variable "plotFigure" to match the regular expression ^[_a-z][a-z0-9_]*$.(½‰ä‰ıÿÿÿÿ8´„œÆ0
+~python:S117+"[Rename this local variable "secondPlot" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÒÉà‹ûÿÿÿÿ8´„œÆ0
+wpython:S1542"SRename function "FirstEquation" to match the regular expression ^[a-z_][a-z0-9_]*$.(‚¶µ¶ùÿÿÿÿ8´„œÆ0
+}python:S1171"_Rename this parameter "EulerMethodFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ö­¼—8´„œÆ0
+}python:S117K"ZRename this local variable "firstPlot" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÒÉà‹ûÿÿÿÿ8´„œÆ0
+~python:S117J"[Rename this local variable "plotFigure" to match the regular expression ^[_a-z][a-z0-9_]*$.(½‰ä‰ıÿÿÿÿ8‘´„œÆ0
+~python:S117K"[Rename this local variable "secondPlot" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÒÉà‹ûÿÿÿÿ8‘´„œÆ0
+spython:S15421"TRename function "SecondEquation" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ö­¼—8‘´„œÆ0
+‚python:S117Q"_Rename this parameter "EulerMethodFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(ßË‚ùÿÿÿÿ8‘´„œÆ0
+}python:S117m"ZRename this local variable "firstPlot" to match the regular expression ^[_a-z][a-z0-9_]*$.(•ıè§şÿÿÿÿ8‘´„œÆ0
+~python:S117l"[Rename this local variable "plotFigure" to match the regular expression ^[_a-z][a-z0-9_]*$.(½‰ä‰ıÿÿÿÿ8‘´„œÆ0
+~python:S117m"[Rename this local variable "secondPlot" to match the regular expression ^[_a-z][a-z0-9_]*$.(•ıè§şÿÿÿÿ8‘´„œÆ0
+}python:S117m"ZRename this local variable "thirdPlot" to match the regular expression ^[_a-z][a-z0-9_]*$.(•ıè§şÿÿÿÿ8‘´„œÆ0
+wpython:S1542Q"SRename function "ThirdEquation" to match the regular expression ^[a-z_][a-z0-9_]*$.(ßË‚ùÿÿÿÿ8‘´„œÆ0
+‚python:S117s"_Rename this parameter "EulerMethodFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(÷²‰øÿÿÿÿ8‘´„œÆ0
+python:S117"\Rename this local variable "alphaMatrix" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÚÖ§ııÿÿÿÿ8‘´„œÆ0
+python:S117…"[Rename this local variable "betaMatrix" to match the regular expression ^[_a-z][a-z0-9_]*$.( ³€¬úÿÿÿÿ8‘´„œÆ0
+ƒpython:S117‘"_Rename this local variable "equationMatrix" to match the regular expression ^[_a-z][a-z0-9_]*$.(øµâ„ıÿÿÿÿ8‘´„œÆ0
+~python:S117¤"ZRename this local variable "firstPlot" to match the regular expression ^[_a-z][a-z0-9_]*$.(•ıè§şÿÿÿÿ8“´„œÆ0
+€python:S117‹"aRename this local variable "functionalMatrix" to match the regular expression ^[_a-z][a-z0-9_]*$.(¥ÍÊê8“´„œÆ0
+python:S117£"[Rename this local variable "plotFigure" to match the regular expression ^[_a-z][a-z0-9_]*$.(½‰ä‰ıÿÿÿÿ8“´„œÆ0
+python:S117¤"[Rename this local variable "secondPlot" to match the regular expression ^[_a-z][a-z0-9_]*$.(•ıè§şÿÿÿÿ8“´„œÆ0
+ypython:S117y"[Rename this local variable "symbolicU1" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ø®È¾8“´„œÆ0
+ypython:S117y"[Rename this local variable "symbolicU2" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ø®È¾8“´„œÆ0
+ypython:S117y"[Rename this local variable "symbolicU3" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ø®È¾8“´„œÆ0
+~python:S117¤"ZRename this local variable "thirdPlot" to match the regular expression ^[_a-z][a-z0-9_]*$.(•ıè§şÿÿÿÿ8“´„œÆ0
+xpython:S1542s"TRename function "FourthEquation" to match the regular expression ^[a-z_][a-z0-9_]*$.(÷²‰øÿÿÿÿ8”´„œÆ0
